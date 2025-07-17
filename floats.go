@@ -1,4 +1,4 @@
-// Package datafile if for reading data out of files.
+// Package datafile is for reading data out of files.
 package datafile
 
 import (
